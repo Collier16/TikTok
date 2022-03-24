@@ -10,4 +10,4 @@
 3. Private payment options for friends
 4. Save favorite videos 
 5. Edit videos
-
+6. comment editor
